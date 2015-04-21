@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Base de Datos</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">ID:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="jj">Juegos Jugados:</string>
+    <string name="jg">Juegos Ganados:</string>
+    <string name="jp">Juegos Perdido:</string>
+    <string name="pts">Puntos:</string>
+
+    <string name="alta">Alta</string>
+    <string name="baja">Baja</string>
+    <string name="consulta">Consultar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
